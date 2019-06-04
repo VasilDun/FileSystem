@@ -1,0 +1,7 @@
+C:\Users\dunva\source\repos\FileSystem_CSharp\FileSystem_CSharp\bin\Debug\FileSystem_CSharp.exe.config
+C:\Users\dunva\source\repos\FileSystem_CSharp\FileSystem_CSharp\bin\Debug\FileSystem_CSharp.exe
+C:\Users\dunva\source\repos\FileSystem_CSharp\FileSystem_CSharp\bin\Debug\FileSystem_CSharp.pdb
+C:\Users\dunva\source\repos\FileSystem_CSharp\FileSystem_CSharp\obj\Debug\FileSystem_CSharp.csprojAssemblyReference.cache
+C:\Users\dunva\source\repos\FileSystem_CSharp\FileSystem_CSharp\obj\Debug\FileSystem_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\dunva\source\repos\FileSystem_CSharp\FileSystem_CSharp\obj\Debug\FileSystem_CSharp.exe
+C:\Users\dunva\source\repos\FileSystem_CSharp\FileSystem_CSharp\obj\Debug\FileSystem_CSharp.pdb
